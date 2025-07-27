@@ -80,7 +80,7 @@ It ensures secure access control by maintaining a clean list of authorized IP ad
 ## 👨‍💻 Author
 
 **Paras K C**  
-[LinkedIn Profile](https://www.linkedin.com/in/paras-kc)
+[LinkedIn Profile](https://www.linkedin.com/in/paraskc)
 
 ---
 
